@@ -11,4 +11,5 @@ install_github(marcellogualandi/koireb)
 per usare il pacchetto va richiamato con la funzione `library()`
 ```r
 library `(koireb)`
+
 ```
